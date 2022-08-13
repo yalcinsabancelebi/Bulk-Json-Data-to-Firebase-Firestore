@@ -28,7 +28,7 @@ Go to your Google Firebase account and select your project, if you don't have an
 > Step 6 - give the web project a name then and the parts marked in red are important. Copy these three lines and paste them in the appropriate places within the project. Press continue to console.
 <img src="https://user-images.githubusercontent.com/75809015/184492689-37914a46-5b1e-473d-a216-5c893916f1ca.PNG" width="300">
 
-Paste the copied sections into the matching sections below. this code block is available inside the project.
+Paste the copied sections into the matching sections below. this code block already exists [here](http://localhost/](https://github.com/yalcinsabancelebi/Bulk-Json-Data-to-Firebase-Firestore/blob/92a69424d915d95f1dcad05dd1fe394544023715/Bulk%20Json%20Data%20to%20Firebase%20Firestore/bulk-json-to-firebase.js#L9)) within the project.
 
 ```
 firebase.initializeApp({
