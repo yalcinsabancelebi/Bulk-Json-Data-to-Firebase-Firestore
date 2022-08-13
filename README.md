@@ -1,11 +1,11 @@
-##JSON to Firestore
+###JSON to Firestore
 This library allows you to batch and quickly upload your json files to firestore instead of writing them one by one.
 
-###Features
+####Features
 - A protocol which partitions successfully processed and which failed
 - Automatic identification, whether a document should have a supplied name or a randomly generated name
 
-###Usage
+####Usage
 After cloning the repository to your local computer, run `npm install` and `npm install firebase`. Make sure node_modules is included in your source file.
 Go to your Google Firebase account and select your project, if you don't have any projects go to https://firebase.google.com/ create an account and create a project. Name your project and continue.
 
