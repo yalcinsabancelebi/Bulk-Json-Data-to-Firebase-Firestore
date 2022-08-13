@@ -9,8 +9,8 @@ This library allows you to batch and quickly upload your json files to firestore
 After cloning the repository to your local computer, run `npm install` and `npm install firebase`. Make sure node_modules is included in your source file.
 Go to your Google Firebase account and select your project, if you don't have any projects go to https://firebase.google.com/ create an account and create a project. Name your project and continue.
 
-![](![1](https://user-images.githubusercontent.com/75809015/184480426-8024b3b7-b3c1-49dd-92c2-b7c3a5f475cf.PNG))
-![](![2](https://user-images.githubusercontent.com/75809015/184480430-8e0b6ea8-5819-41ca-a7be-594ec195517f.PNG))
-![](![3](https://user-images.githubusercontent.com/75809015/184480436-f1f82825-dd11-40e2-8b0d-d4a023da4757.PNG))
-![](![4](https://user-images.githubusercontent.com/75809015/184480438-8d68f16d-b050-4ba2-841c-7300108b461e.PNG))
-![](![key](https://user-images.githubusercontent.com/75809015/184480442-282ea5be-3292-4516-9735-58b21a65a845.PNG))
+![1](https://user-images.githubusercontent.com/75809015/184480468-9a70cd5b-dd96-499f-b457-ef4fbccd11d2.PNG)
+![2](https://user-images.githubusercontent.com/75809015/184480469-2abf817d-4d49-46cc-8da7-5439a8fa1f37.PNG)
+![3](https://user-images.githubusercontent.com/75809015/184480471-b0bb2e01-0003-4c41-9dc0-87b46731705e.PNG)
+![4](https://user-images.githubusercontent.com/75809015/184480472-0e719a79-ed5e-47eb-b8bf-41a87a0f1109.PNG)
+![key](https://user-images.githubusercontent.com/75809015/184480473-775d9eb6-ab5f-4922-829e-c20c293dbb8b.PNG)
