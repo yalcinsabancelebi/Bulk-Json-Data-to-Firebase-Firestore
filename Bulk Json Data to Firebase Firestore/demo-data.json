@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "Smoothie Name": "Healthy Carrot Cake Smoothie",
+      "Calories (kcal)": 522,
+      "Fats (g)": 26,
+      "Protein (g)": 20,
+      "Carbs (g)": 58,
+      "Fiber (g)": 11,
+      "Sugar (g)": 32,
+      "Ingredients": [ "1 cup almond milk", "1/2 cup Greek yogurt", "1/3 cup walnuts", "1 banana", "1 cup carrots (chopped)", "1/4 tsp fresh ginger (grated)", "1 tsp cinnamon", "a pinch of nutmeg", "1 tsp vanilla extract" ]
+    },
+    {
+      "id": 2,
+      "Smoothie Name": "Coconut Almond Spinach Smoothie",
+      "Calories (kcal)": 802,
+      "Fats (g)": 68,
+      "Protein (g)": 16,
+      "Carbs (g)": 46,
+      "Fiber (g)": 9.2,
+      "Sugar (g)": 16,
+      "Ingredients": [ "1 cup of canned coconut milk", "1 banana", "2 tbsp almond butter", "2 tbsp pumpkin seeds", "2 cups spinach", "1/2 tsp vanilla extract", "1/2 cup ice cubes" ]
+    },
+    {
+      "id": 3,
+      "Smoothie Name": "Blueberry Protein Smoothie",
+      "Calories (kcal)": 567,
+      "Fats (g)": 5.1,
+      "Protein (g)": 34,
+      "Carbs (g)": 104,
+      "Fiber (g)": 14,
+      "Sugar (g)": 50,
+      "Ingredients": [ "2 cups of blueberries", "1/2 cup oat milk", "1/2 cup spinach", "1/2 banana", "1 tbsp vanilla protein powder", "1/2 cup greek yogurt", "1/2 cup rolled oats" ]
+    },
+    {
+      "id": 4,
+      "Smoothie Name": "Coffee Protein Smoothie",
+      "Calories (kcal)": 592,
+      "Fats (g)": 26,
+      "Protein (g)": 25,
+      "Carbs (g)": 68,
+      "Fiber (g)": 11,
+      "Sugar (g)": 37,
+      "Ingredients": [
+        "1/2 cup brewed coffee (cooled down)",
+        "1 large banana",
+        "2 tbsp unsweetened peanut butter",
+        "2 tbsp vanilla protein powder",
+        "1 tbsp cocoa powder",
+        "1 cup coconut milk",
+        "1/2 cup ice cubes"
+      ]
+    },
+    {
+      "id": 5,
+      "Smoothie Name": "Pineapple Banana Smoothie",
+      "Calories (kcal)": 615,
+      "Fats (g)": 11,
+      "Protein (g)": 22,
+      "Carbs (g)": 114,
+      "Fiber (g)": 19,
+      "Sugar (g)": 45,
+      "Ingredients": [
+        "1 banana",
+        "1 1/2 cups pineapple chunks (fresh or frozen)",
+        "1/2 cup rolled oats",
+        "1 tbsp chia seeds",
+        "1/4 cup white beans (canned)",
+        "1 cup soy milk"
+      ]
+    }
+]
